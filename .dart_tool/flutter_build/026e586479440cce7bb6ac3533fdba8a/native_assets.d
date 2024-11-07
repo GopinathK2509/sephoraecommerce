@@ -1,0 +1,1 @@
+ C:\\My\ Files\\Gopi\\flutter\ code\\sephora\\.dart_tool\\flutter_build\\026e586479440cce7bb6ac3533fdba8a\\native_assets.yaml: 

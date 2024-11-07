@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\My Files\Gopi\flutter code\sephora\build\windows\x64\CMakeFiles\44f841ceba66bd6dae646d6828efd058\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\My Files\Gopi\flutter code\sephora\build\windows\x64\CMakeFiles\397914a656dd4cb4abd8ebad5c5c210a\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\My Files\Gopi\flutter code\sephora\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\My Files\Gopi\flutter code\sephora\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{578BDA61-45E3-38DB-80A1-C613ACCCC52F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

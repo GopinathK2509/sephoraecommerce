@@ -1,0 +1,10 @@
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/icudtl.dat
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/flutter_windows.dll
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/My Files/Gopi/flutter code/sephora/build/windows/x64/runner/Release/data/app.so
