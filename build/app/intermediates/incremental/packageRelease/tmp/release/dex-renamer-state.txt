@@ -1,4 +1,4 @@
-#Thu Nov 07 15:27:52 IST 2024
+#Sat Nov 09 07:16:40 IST 2024
 base.0=C\:\\My Files\\Gopi\\flutter code\\sephora\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
